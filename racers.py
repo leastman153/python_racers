@@ -13,3 +13,5 @@
 # Function definitions
 
 # Main program
+
+# this is a test comment to see if i can code from my phone
